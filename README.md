@@ -31,16 +31,16 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
-  <a href="contato@gutotribeiro18@gmail.com">
+  <a href="mailto:gutotribeiro18@gmail.com" target="_blank">
     <img src="https://github.com/user-attachments/assets/12014b4f-72e2-4d60-8ed5-e023c45f7404" width="50" height="40" alt="gmail logo"/>
   </a>
-  <a href="https://www.linkedin.com/in/gustavotavaresribeiro/">
+  <a href="https://www.linkedin.com/in/gustavotavaresribeiro/" target="_blank">
     <img src="https://github.com/user-attachments/assets/2c52c1a8-1adb-4e55-930a-f4b60396943c" width="50" height="40" alt="linkedin logo"/>
   </a>
-  <a href="(11) 98435-5654">
+  <a href="https://wa.me/5511984355654" target="_blank">
     <img src="https://github.com/user-attachments/assets/2e7b627b-3523-47de-9153-e4d41fb8f70c" width="50" height="40" alt="whatsapp logo"/>
   </a>
-  <a href="https://www.instagram.com/guxtavares_/">
+  <a href="https://www.instagram.com/guxtavares_/" target="_blank">
     <img src="https://github.com/user-attachments/assets/9d0c19f9-2d63-4aba-9630-7bbb865d5ca7" width="50" height="40" alt="instagram logo"/>
   </a>
 </div>
